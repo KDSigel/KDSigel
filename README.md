@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on creating a full stack web app for dog owners.
 
-- 🌱 I’m currently learning the ins and outs of OAuth and working through the documentation for Amazon Rekognition.
+- 🌱 I’m brushing up on my OAuth and Material UI skills and teaching myself Redux, GraphQL, Next.js, and Flask.
 
-- 👯 I’m looking to collaborate on projects that help people with day to day life, and projects that need a designer's eye.
+- 👯 I’m looking to collaborate on projects that help people with day to day life, and projects that need a designer's eye. I'm interested in using Amazon Rekognition in an app.
 
 - 😄 Pronouns: he/they
 
