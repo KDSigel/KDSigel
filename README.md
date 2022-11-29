@@ -4,7 +4,7 @@
 
 - 🌱 I’m brushing up on my OAuth and Material UI skills and teaching myself Redux, GraphQL, Next.js, and Flask.
 
-- 👯 I’m looking to collaborate on projects that help people with day to day life, and projects that need a designer's eye. I'm interested in using Amazon Rekognition in an app.
+- 👯 I’m looking to collaborate on projects that help people with day to day life, and projects that need a designer's eye.
 
 - 😄 Pronouns: he/they
 
